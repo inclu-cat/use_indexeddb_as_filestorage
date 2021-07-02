@@ -1,7 +1,7 @@
 # use_indexeddb_as_filestorage
 
 This is an app to demonstrate how to use IndexedDB as file storage.
-Related article here:
+Related article [here](https://inclucat.wordpress.com/2021/06/18/flutter-web-use-indexed-db-as-file-storage/)
 
 ## How it works
 If you click **Add Text File** button or **Add Binary File** button, the app will store the corresponding file located in the **assets** folder into IndexedDB. And the app gets the file from IndexedDB again and shows the file information simply. 
